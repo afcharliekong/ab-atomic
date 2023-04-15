@@ -1,0 +1,11 @@
+{
+  "name": "ab-atomic",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@algo-builder/algob": "^7.0.0",
+    "algosdk": "^2.2.0",
+    "dotenv": "^16.0.3"
+  }
+}
